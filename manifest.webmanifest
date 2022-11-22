@@ -20,13 +20,6 @@
       "ms_ac_template": "cards/test.ac.json",
       "short_name": "Max",
       "description": "A widget that doesn't do much of anything yet.",
-      "screenshots": [
-        {
-          "src": "icons/screenshot.png",
-          "sizes": "600x400",
-          "label": "Test screenshot"
-        }
-      ],
       "backgrounds": [
         {
           "src": "icons/background.png",
@@ -52,13 +45,6 @@
 
       "short_name": "Max",
       "description": "A widget that doesn't do much of anything yet.",
-      "screenshots": [
-        {
-          "src": "icons/screenshot.png",
-          "sizes": "600x400",
-          "label": "Test screenshot"
-        }
-      ],
       "backgrounds": [
         {
           "src": "icons/background.png",
