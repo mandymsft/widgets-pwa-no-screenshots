@@ -12,7 +12,7 @@
   ],
   "widgets": [
     {
-      "name": "Max AC- Single",
+      "name": "No Screenshot",
       "tag": "max_ac",
       "template": "test",
       "data": "cards/data.json",
@@ -36,15 +36,20 @@
       ]
     },
     {
-      "name": "Max AC- Multiple",
+      "name": "No Description",
       "tag": "max_ac_multiple",
       "template": "test",
       "data": "cards/data.json",
       "type": "application/json",
       "ms_ac_template": "cards/test.ac.json",
-
+      "screenshots": [
+        {
+          "src": "icons/screenshot.png",
+          "sizes": "600x400",
+          "label": "Test screenshot"
+        }
+      ],
       "short_name": "Max",
-      "description": "A widget that doesn't do much of anything yet.",
       "backgrounds": [
         {
           "src": "icons/background.png",
